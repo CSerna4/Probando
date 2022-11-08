@@ -10,6 +10,10 @@ public class CLASEPRUEBA {
 	
 	int edad=20;
 	
+	System.out.print("Haciendo mas cambios lol");
+	
+	
+	
 	
 	
 	
