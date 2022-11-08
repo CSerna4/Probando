@@ -5,6 +5,11 @@ public class CLASEPRUEBA {
 	
 	System.out.println("Hola mundo");
 	
+	String nombre="Camila";
+	String edad="veinte";
+	
+	int edad=20;
+	
 	
 	
 	
